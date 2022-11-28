@@ -1,4 +1,4 @@
-# An alternative form of this database
+# An alternative form of the Saturday Night Live database
 
 To use this database/dataset with a database teaching class I worked to align the tables with a more normalized form.
 
