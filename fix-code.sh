@@ -1,5 +1,5 @@
 #!/bin/bash
-# 
+# g
 
 find . -type f -iname '*.py' -exec autopep8 --in-place {} \;
 
@@ -9,6 +9,8 @@ mkdir ./db/
 
 python3 -m pip install -r requirements.txt
 
+
+./crawl_single_episode.sh 19751011
 
 
 find . -type f -iname '*.json' -o -iname '*.csv'
